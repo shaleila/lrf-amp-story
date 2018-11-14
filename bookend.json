@@ -1,0 +1,23 @@
+{
+  "share-providers": {
+    "email": true,
+    "twitter": true,
+    "facebook": {
+      "app_id": "587023288346596"
+    }
+  },
+  "related-articles": {
+    "More to Read": [
+      {
+        "title": "The Geography of Oppression",
+        "url": "https://www.theatlantic.com/magazine/archive/2018/02/latoya-ruby-frazier-geography-of-oppression/552587/",
+        "image": "./assets/geog-thumbnail.png"
+      },
+      {
+        "title": "Martin Luther King Jr.'s 'Letter From Birmingham Jail",
+        "url": "https://www.theatlantic.com/magazine/archive/2018/02/letter-from-birmingham-jail/552461/",
+        "image": "./assets/birmingham-jail.png"
+      }
+    ]
+  }
+}
